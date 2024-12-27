@@ -105,7 +105,7 @@ class AlarmClock extends HTMLElement {
           </div>
           <button class="wake_up"><i>Turn OFF</i></button>
           <button class="snooze">Snooze for 5 min</button>
-          <audio src="/alarm/alarm_clock.mp3" class="sounder"></audio>
+          <audio src="alarm_clock.mp3" class="sounder"></audio>
                        <button class="close">
                        <p>X</p>
                        </button>
